@@ -64,5 +64,138 @@
 		"location": "Your Preferred Venue",
 		"date": "Flexible",
 		"duration": "3 - 5 hours"
-	}
+	},
+	{
+    	"id": 7,
+    	"photo": "https://karmahill.com/wp-content/uploads/2022/07/Elizabeth-Daniel_0031.jpg",
+    	"title": "Destination Wedding Bliss",
+    	"description": "Experience the magic of a destination wedding. We'll plan your dream wedding in exotic locations, from tropical beaches to historic cities. Create lifelong memories with a destination wedding that combines adventure and romance.",
+    	"shortDescription": "Make your wedding unforgettable with a destination wedding in exotic locations. We handle everything from travel arrangements to venue selection, ensuring a stress-free experience.",
+    	"price": "$2500 - $10000",
+    	"location": "Various Exotic Locations",
+    	"date": "Flexible",
+    	"duration": "2 - 7 days"
+  },
+  {
+    "id": 8,
+    "photo": "https://i0.wp.com/bigtop.com.sg/wp-content/uploads/2022/03/Launching-Mechanism-Rental-in-Sinapore.jpg",
+    "title": "Grand Brand Launch Events",
+    "description": "Launch your brand in style with our grand brand launch events. We'll help you create a buzz around your brand with creative launch strategies, impactful presentations, and memorable events.",
+    "shortDescription": "Elevate your brand launch with creative strategies and memorable events. From presentations to product launches, we'll make sure your brand gets the attention it deserves.",
+    "price": "Custom Quote",
+    "location": "Your Preferred Venue",
+    "date": "Flexible",
+    "duration": "Varies"
+  },
+  {
+    "id": 9,
+    "photo": "https://www.newah.org/wp-content/uploads/2019/03/Kayeta_Puja-ceremony.jpg",
+    "title": "Traditional Bratabandha Celebrations",
+    "description": "Celebrate the traditional Bratabandha ceremony with our expert planning services. We'll ensure that every aspect of this important event is executed flawlessly, from rituals to decorations.",
+    "shortDescription": "Honor tradition with a beautifully planned Bratabandha ceremony. We take care of every detail, ensuring that this important event is memorable and meaningful.",
+    "price": "$800 - $3000",
+    "location": "Your Preferred Venue",
+    "date": "Flexible",
+    "duration": "4 - 6 hours"
+  },
+  {
+    "id": 10,
+    "photo": "https://entertainmenteffects.co.uk/wp-content/uploads/2022/11/gender-reveal-pink-smoke.jpg",
+    "title": "Exciting Gender Reveal Parties",
+    "description": "Make the gender reveal moment unforgettable with our exciting parties. Whether you choose pink or blue, we'll create a fun and suspenseful experience for your loved ones.",
+    "shortDescription": "Turn your gender reveal into an exciting party. We'll add fun and suspense to the big reveal, creating memorable moments for you and your guests.",
+    "price": "$400 - $800",
+    "location": "Your Preferred Venue",
+    "date": "Flexible",
+    "duration": "2 - 4 hours"
+  },
+  {
+    "id": 11,
+    "photo": "https://hips.hearstapps.com/hmg-prod/images/virginia-ian-favs0074-1558402639.jpg",
+    "title": "Chic Bridal Shower Celebrations",
+    "description": "Celebrate the bride-to-be with a chic bridal shower. Our planning services cover everything from elegant decor to fun games, ensuring the perfect pre-wedding celebration.",
+    "shortDescription": "Honor the bride-to-be with a chic bridal shower. We handle decorations, games, and all the details to create a memorable pre-wedding celebration.",
+    "price": "$600 - $1200",
+    "location": "Your Preferred Venue",
+    "date": "Flexible",
+    "duration": "3 - 5 hours"
+  },
+  {
+    "id": 12,
+    "photo": "https://i2-prod.devonlive.com/special-features/article459831.ece/ALTERNATES/s615/Xmas-party1JPG.jpg",
+    "title": "Festive Holiday Parties",
+    "description": "Spread holiday cheer with festive holiday parties. Our planning services cover Christmas parties, New Year's Eve celebrations, and more. Let's make your holidays special.",
+    "shortDescription": "Celebrate the holidays with festive parties. We'll create the perfect atmosphere for Christmas, New Year's Eve, and other holiday celebrations.",
+    "price": "$500 - $1500",
+    "location": "Your Preferred Venue",
+    "date": "Holiday Season",
+    "duration": "Varies"
+  },
+   {
+    "id": 13,
+    "photo": "https://www.bridewants.ca/images/image/Bachelor-Party-ideas-1.jpg",
+    "title": "Ultimate Bachelor Parties",
+    "description": "Plan the ultimate bachelor party with us. Whether you're looking for a wild night out or a relaxing getaway with the guys, we'll create the perfect bachelor party experience.",
+    "shortDescription": "Make the groom's last night as a bachelor unforgettable. We'll plan the perfect bachelor party, whether it's a night on the town or a weekend getaway.",
+    "price": "$800 - $3000",
+    "location": "Various Locations",
+    "date": "Flexible",
+    "duration": "1 night - 1 weekend"
+  },
+  {
+    "id": 14,
+    "photo": "https://www.psbedu.paris/sites/default/files/etudiants-psb-ip.jpg",
+    "title": "Graduation Gala Events",
+    "description": "Celebrate your academic achievements with a graduation gala. Our event planning services cover everything from venue selection to catering, ensuring a memorable graduation celebration.",
+    "shortDescription": "Honor your academic success with a graduation gala. We'll handle all the details, so you can enjoy a memorable celebration with friends and family.",
+    "price": "$500 - $2000",
+    "location": "Your Preferred Venue",
+    "date": "Flexible",
+    "duration": "4 - 6 hours"
+  },
+  {
+    "id": 15,
+    "photo": "https://homeownersfg.com/wp-content/uploads/AdobeStock_558713133-scaled.jpeg",
+    "title": "Warm Housewarming Parties",
+    "description": "Celebrate your new home with a warm housewarming party. We'll create a welcoming atmosphere and take care of all the arrangements, so you can enjoy your new space with friends and family.",
+    "shortDescription": "Celebrate your new home with a cozy housewarming party. We'll handle the details, from decor to catering, so you can focus on creating memories in your new space.",
+    "price": "$300 - $800",
+    "location": "Your New Home",
+    "date": "Flexible",
+    "duration": "3 - 5 hours"
+  },
+  {
+    "id": 16,
+    "photo": "https://welcomeeventmanagement.com/wp-content/uploads/2017/11/teej-celebration-800x600.jpg",
+    "title": "Panshi Celebration Services",
+    "description": "Celebrate the cultural significance of Panshi with our expert planning services. We'll help you organize a beautiful and meaningful event that honors tradition.",
+    "shortDescription": "Honor tradition with a beautifully planned Panshi celebration. We'll ensure that every aspect of this cultural event is executed flawlessly, from rituals to decorations.",
+    "price": "$800 - $2500",
+    "location": "Your Preferred Venue",
+    "date": "Flexible",
+    "duration": "4 - 6 hours"
+  },
+  {
+    "id": 17,
+    "photo": "https://www.asiadreams.com/wp-content/uploads/RSN_2800.jpg",
+    "title": "Glamorous Gala Events",
+    "description": "Experience glamour and sophistication with our gala event planning services. We specialize in creating stunning gala events that leave a lasting impression on your guests.",
+    "shortDescription": "Indulge in the elegance of our glamorous gala events. From red carpet arrivals to exquisite decor, we'll ensure that your gala event is a night to remember.",
+    "price": "$2000 - $8000",
+    "location": "Exclusive Venues",
+    "date": "Available year-round",
+    "duration": "4 - 8 hours"
+  },
+{
+    "id": 18,
+    "photo": "https://aojourneys.com/Data/Sites/1/News/46/15-vibrant-and-colorful-festivals-in-bhutan-one-must-witness-in-2023.jpg",
+    "title": "Vibrant Festivals",
+    "description": "Celebrate culture, music, and art with our festival planning services. We'll help you organize vibrant festivals that bring communities together for a memorable experience.",
+    "shortDescription": "Immerse yourself in vibrant festivals filled with music, art, and culture. We'll assist in planning every detail to ensure a colorful and enjoyable festival.",
+    "price": "$3000 - $10000",
+    "location": "Various Festival Grounds",
+    "date": "Seasonal",
+    "duration": "1 day - 1 week"
+  }
+
 ]
